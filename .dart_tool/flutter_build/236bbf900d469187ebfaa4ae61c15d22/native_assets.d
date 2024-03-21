@@ -1,0 +1,1 @@
+ C:\\src\\flutter\\examples\\cabukmama\\cbmobile\\cbmobile\\.dart_tool\\flutter_build\\236bbf900d469187ebfaa4ae61c15d22\\native_assets.yaml: 
